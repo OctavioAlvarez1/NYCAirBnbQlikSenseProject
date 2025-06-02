@@ -100,7 +100,7 @@ This Qlik Sense project presents an interactive dashboard built to explore and a
 
 For questions or collaborations:
 
-**GitHub**: https://github.com/OctavioAlvarez1
+**GitHub**: https://github.com/OctavioAlvarez1 <br>
 **LinkedIn**: https://www.linkedin.com/in/octavio-alvarez-6a229b223/
 
 ---
