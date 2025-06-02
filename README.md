@@ -4,6 +4,8 @@ This Qlik Sense project presents an interactive dashboard built to explore and a
 
 🔗 **Live Dashboard**: [View on Qlik Sense](https://jupidigital.us.qlikcloud.com/sense/app/d0a92468-57f2-4310-af5e-badea4b0cafb/sheet/hejPC/state/analysis/hubUrl/%2Fanalytics%2Fhome)
 
+![Dashboard](Images/Dashboard1.png)
+![Dashboard](Images/Dashboard2.png)
 ---
 
 ## 📊 Project Objectives
